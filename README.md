@@ -1,0 +1,2 @@
+# GoogleAnalyticsSlackPost
+GoogleAnalyticsのレポートをslackに通知
